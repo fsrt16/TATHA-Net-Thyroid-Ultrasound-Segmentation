@@ -4,7 +4,7 @@
 
 **TATHA-Net: A Novel Hybrid Deep Learning Model Integrating Deep Feature Attention and Statistical Validation for Thyroid Ultrasound Segmentation**
 
-![TATHA-Net Architecture](path/to/your/architecture_image.png) <!-- Replace with actual image path -->
+![TATHA-Net Architecture](ThyroFEN.png) <!-- Replace with actual image path -->
 
 ---
 
