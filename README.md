@@ -73,7 +73,7 @@ TATHA-Net was evaluated on a benchmark thyroid ultrasound dataset, showing stron
 
 Below are sample segmentation outputs comparing ground truth (GT) with TATHA-Net predictions:
 
-!(Qualitative Results.png)
+![TATHA-Net Architecture](Qualitative Results.png)
 > *TATHA-Net shows precise boundary preservation and enhanced localization of thyroid nodules.*
 
 > *Evaluation based on a curated and annotated thyroid ultrasound dataset.*
