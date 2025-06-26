@@ -1,18 +1,4 @@
-"""
-Statistical Analysis of Machine Learning Model with 15-Fold Cross-Validation
------------------------------------------------------------------------------
 
-This script:
-- Performs 15-fold cross-validation
-- Calculates accuracy and F1-score
-- Computes mean, standard deviation
-- Performs Shapiro-Wilk normality test
-- Performs one-sample T-test
-- Summarizes results in a dataframe format
-
-Author: Your Name
-Date: 2025-06-26
-"""
 
 import numpy as np
 import pandas as pd
